@@ -1,0 +1,15 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+.gray{
+	color:gray;
+}
+input:focus{
+	outline:none;
+}
+input{
+	background-color:#9693931f;
+	border:none;
+}
